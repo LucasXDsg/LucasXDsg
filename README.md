@@ -20,4 +20,4 @@
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
   
-![e6dac1038095d76596e8b1bd9653f569](https://github.com/user-attachments/assets/8ad9c4dc-0152-4faf-b3fe-d0943b91c67c)
+![rthkzil16koc1](https://github.com/user-attachments/assets/ffbf2417-8387-41ed-a2b0-9bf18b0fd06c)
