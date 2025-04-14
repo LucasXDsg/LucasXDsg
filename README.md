@@ -2,7 +2,7 @@
 <h3>Nerd apaixonado por Aprender ~ Code⌨️, Games👾 & Música🎸</h3>
 
 - 🔭 Estudante de Defesa Cibernetica na Gran Faculdade
-- 🌱 Estou aprendendo atualmente Ruby on Rails & Git
+- 🌱 Estou me atualizando atualmente sobre UX & UI
 - 🎥 Curiosidade sobre min... toco violão a 14 anos & sou lutador de taekwondo
 
 <h3>Skils</h3>
